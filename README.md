@@ -313,6 +313,34 @@ Tienen **visibilidad** al igual que las variables de estado, pueden ser:
 
 Ejemplos de funciones publica y privada:
 
+
+```
+function multiplication(int a, int b) returns(int) {
+    return a * b;
+}
+function multiplication(int a, int b) returns(int product) {
+    product = a * b;
+}
+```
+
+```
+// SPDX-License-Identifier: GPL-3.0
+pragma solidity >=0.7.0 <0.9.0;
+
+contract ExampleContract {
+
+    function multiplicationPublic(int a, int b) public returns(int) {
+        return a * b;
+    }
+
+    function multiplicationPrivate(int a, int b) private returns(int) {
+        return a * b;
+    }
+}
+```
+
+
+
 ```
 // SPDX-License-Identifier: GPL-3.0
 
