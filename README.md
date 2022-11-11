@@ -189,14 +189,21 @@ Cadena de texto
 
 **Visibilidad**
 
-Las variables con el identificador **private** podrán ser usadas dentro del contrato, las variables con el identificador **public** podrán ser usadas dentro y fuera del contrato, por defecto son private.
+**Las variables de estado** pueden contar con un identificador de visibilidad que define cual será su alcance.
 
+Las variables con el identificador **private** podrán ser usadas dentro del contrato, las variables con el identificador **public** podrán ser usadas dentro y fuera del contrato y por defecto las variables definidas en un contrato solo se pueden acceder dentro del contrato.
+
+![](https://blogger.googleusercontent.com/img/a/AVvXsEhctHuVemnjhEptmbf4UWdIVuLZrmwphTDJLCsQaYECDNnXYMh1-luLPDTzEBnrGWJ7MA-oyb-p0luYAfS3B8ufW7pD2fyfQwT5O4NCf6lR0zLkgC86lBp2TbZadXOmCtedXatEZ13MDpgkbv2Po4SlMqjCN4Q4OgOQd6Xdw7AxDorBc6QPSbqmHa0d=w400-h194)
 
 **Variables Globales**
+
+Solidity también cuenta con variables globales que podrás usar dentro del código de tu contrato. Estas son:
 
   - block - Información del bloque
   - msg - Información de la llamada
   - tx - Información sobre la transacción actual
+  
+  entre las propiedades más interesantes de estas variables están:
   
 **Propiedades más interesantes:**
 
@@ -214,6 +221,8 @@ Las variables con el identificador **private** podrán ser usadas dentro del con
 
 //Costo en gas de la transacción 
 `tx.gasprice`
+
+![](https://blogger.googleusercontent.com/img/a/AVvXsEj9fFF5i_f12XRHuRhUYib3NUUZDv994zc4mIvk-Cbx4oJjwmr7lc0ttTVbxG4ibzHZnquFZ8XOZLFXa5ix-GFKHtlt6OtziEPHo4XEVw-LJoLbPlz36-Tz74QuGCks8_CHRMvFtS5mHQVzvrQ0Epsn0szcr2_Ez1ECMBVDWcU5gT94HA1TErERBRcb=w400-h217)
 
 Ejemplo de Smart Contract en Remix IDE = Integrated Development Environment. Es la opción ideal para comenzar a desarrollar en lenguajes como Solidity de manera web. 
 https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.7.0+commit.9e61f92b.js
