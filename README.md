@@ -143,7 +143,8 @@ Recurso de la comunidad para aprender con CriptoZombies: https://cryptozombies.i
   - == (igualdad)
   - != (Desigualdad)
 
-![](https://blogger.googleusercontent.com/img/a/AVvXsEgF9VLTnq6u2RVuaSOPb6wFgi0aib4Tgl8pEbxG3cmuSPztZsVwmjXHKzLk9Twe8h27TbtAOkExNml-nRtuGTyJ9iJF9PABJCbFWRpeNAxoWSjRnveV2ZW01gE196kM73W7QvrFGnLKPFQ2dy7n480OQs49EA7eB2Y-gZtO7tWpsPK5slgQBjdH6j6H=s16000)
+![](https://blogger.googleusercontent.com/img/a/AVvXsEgF9VLTnq6u2RVuaSOPb6wFgi0aib4Tgl8pEbxG3cmuSPztZsVwmjXHKzLk9Twe8h27TbtAOkExNml-nRtuGTyJ9iJF9PABJCbFWRpeNAxoWSjRnveV2ZW01gE196kM73W7QvrFGnLKPFQ2dy7n480OQs49EA7eB2Y-gZtO7tWpsPK5slgQBjdH6j6H)
+
 
 **uint/int - Enteros**
 
@@ -152,11 +153,13 @@ Hay dos tipos:
   - uint (Todos los enteros positivos)
   - int (Todos los enteros positivos y negativos)
 
+![](https://blogger.googleusercontent.com/img/a/AVvXsEiT0T2XG4QetndhyL7HTnGfQGhhiAEtNMGOxJAf8pFvwxksN01Bqcx4i3RzxYhyzFKZQ3KlOvb4yMbAt85tubf2QC2cQU3GfqIZ8VAHMafYxELa4CsW5y-VD_Ytd9Gb34h6rh2saZXwR-nB9E6h1o_nP7nsyKUqsOl8jAIKEKvlSG1-eRZovhAbY42X=w400-h213)
 
 **Address**
 
 address payable - Dirección de referencia que identifica smart wallet en la red de Ethereum.
 
+![](https://blogger.googleusercontent.com/img/a/AVvXsEilUTyEjOy-xYIbCZKbxFMNFztXnRFu_GNjbdWDSInhxsY6y6hiTBChyRSEtvgPKw9gQV6cGm8GasznQl5amrXN-RzjJjvzLPloZubxSePllMz5TRePhhsdq2yR4eImYNQwGVwHaW_-IQriJmTl7Gc96CRq9Lf603w2m99wp7frmFq2Mufy-N47sZ2P=w400-h220)
 
 **String**
 
