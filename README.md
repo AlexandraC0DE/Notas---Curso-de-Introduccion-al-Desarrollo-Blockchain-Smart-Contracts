@@ -143,6 +143,7 @@ Recurso de la comunidad para aprender con CriptoZombies: https://cryptozombies.i
   - == (igualdad)
   - != (Desigualdad)
 
+![](https://blogger.googleusercontent.com/img/a/AVvXsEgF9VLTnq6u2RVuaSOPb6wFgi0aib4Tgl8pEbxG3cmuSPztZsVwmjXHKzLk9Twe8h27TbtAOkExNml-nRtuGTyJ9iJF9PABJCbFWRpeNAxoWSjRnveV2ZW01gE196kM73W7QvrFGnLKPFQ2dy7n480OQs49EA7eB2Y-gZtO7tWpsPK5slgQBjdH6j6H=s16000)
 
 **uint/int - Enteros**
 
