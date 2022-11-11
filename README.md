@@ -132,9 +132,30 @@ Recurso de la comunidad para aprender con CriptoZombies: https://cryptozombies.i
 
 ## Variables de estado y variables globales
 
+**Las variables de estado:** Las variables de estado se van a almacenar dentro de nuestro contrato y como su nombre lo indica sus valores representa el estado del contrato.
+
+Estas variables se definen con el tipo que son y luego
+asignándoles un nombre a la variable.
+
+Ejemplo:
+
+```
+tipo nombreDeLaVariable;
+```
+
 **Tipos de variables:**
 
+- Booleanos
+
+- Enteros
+
+- Address
+
+- Strings y bytes
+
+
 **bool - Booleanos**
+Las variables de tipo bool solo pueden tener dos valores  true o false
 
   - true - false
   - ! (negación)
